@@ -1,4 +1,4 @@
-# pointerBasics 
+# Pointer Basics 
 ## Aim 
 To use basic pointers.
 
